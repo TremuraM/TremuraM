@@ -30,3 +30,12 @@ I’m open to collaborations, learning opportunities, and professional networkin
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TremuraM&show_icons=true&theme=dark&hide_border=false&bg_color=000000" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TremuraM&layout=compact&theme=dark&hide_border=false&bg_color=000000" alt="Top Languages" height="200"/>
+</p>
