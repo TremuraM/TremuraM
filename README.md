@@ -11,6 +11,13 @@ Hello! My name is Márcio Tremura, I am an experienced **Administrative Assistan
 - Python, data handling & basic automation  
 - Continuous learning in AI and backend systems  
 
+### 🚀 Currently Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 ## 🤝 Let’s Connect
 
 I’m open to collaborations, learning opportunities, and professional networking. Thanks for visiting my profile!
