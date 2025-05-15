@@ -9,7 +9,7 @@ Hello! My name is Márcio Tremura, I am an experienced **Administrative Assistan
 - Administrative & organizational management  
 - Process optimization & digital tools  
 - Python, data handling & basic automation  
-- Continuous learning in AI and backend systems  
+- Continuous learning in AI and back-end systems  
 
 ### 🚀 Currently Learning  
 <p align="left">
